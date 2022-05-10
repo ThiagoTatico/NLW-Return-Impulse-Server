@@ -38,11 +38,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O Feedback Widget é uma aplicação que fornece um campo de envio de Feedbacks que pode ser acoplado a qualquer site. O usuário pode descrever se esta tendo algum problema com o site, dar sugestões, novas ideias, etc. É possível também tirar uma print da tela do usuário para acompanhar o texto apenas clicando no campo com um ícone de câmera para tirar a print, sem precisar salvar um aquivo para anexar. Os feedbacks podem ser enviados para emails ou até mesmo para algum dashboard para uma melhor administração.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/do6H7V6nQH1onPB034pYIj/Feedback-Widget-(Community)?node-id=100%3A2114). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## ⚙️ Como executar
 - Clone o repositório
